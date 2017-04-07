@@ -1,0 +1,8 @@
+code{
+	padding: 2px 4px;
+	font-size: 90%;
+	color: #3f3f3f;
+	background-color: rgba(128,128,128,0.15);
+	white-space: nowrap;
+	border-radius: 4px;
+}
